@@ -22,7 +22,7 @@
     "babel-jest": "26.3.0",
     "dotenv": "8.2.0",
     "eslint": "7.10.0",
-    "jest": "25.5.4",
+    "jest": "26.5.2",
     "jest-date-mock": "1.0.8",
     "netlify-cli": "2.64.1",
     "next": "9.5.3",
